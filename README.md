@@ -31,5 +31,9 @@ For example, you may get result as:
 .
 ```
 
+# Interface
+![image](https://github.com/kel2v/Color-Sort-solver/blob/0f51ed679e5cadbfa5cafe4e4b57d05042d445ff/Images/Image1.jpg)
+![image](https://github.com/kel2v/Color-Sort-solver/blob/0f51ed679e5cadbfa5cafe4e4b57d05042d445ff/Images/Image2.jpg)
+![image](https://github.com/kel2v/Color-Sort-solver/blob/0f51ed679e5cadbfa5cafe4e4b57d05042d445ff/Images/Image3.jpg)
 # Report any error here
 Please report any errors you face here in this repositoy. 
